@@ -39,14 +39,17 @@
 
 @media (max-width: 480px) {
     img {
-        width: 400px;
+        width: 396px;
     }
     .ps-text {
-        font-size: 1em;
+        font-size: 1.2em;
     }
     #ababa {
         padding: 0.5em;
         font-size: 5em;
+    }
+    .congratulations {
+        font-size: 2em;
     }
 }
 
