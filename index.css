@@ -49,3 +49,9 @@
         font-size: 5em;
     }
 }
+
+@media (min-width: 481px) {
+    img {
+        width: 800px;
+    }
+}
